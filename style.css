@@ -1,0 +1,12 @@
+.one-third-width{
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+    box-shadow: 10px 10px 100px rgb(201, 189, 189);
+    border-radius: 20px;
+
+}
+#laste{
+    text-align: center;
+}
