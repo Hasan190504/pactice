@@ -1,0 +1,19 @@
+.color{
+    color: tomato;
+    
+}
+.link{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: tomato;
+    color: white;
+}
+.sd11{
+    width: 50%;
+    float: left;
+}
+body{
+    padding: 10px;
+}
